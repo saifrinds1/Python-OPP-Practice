@@ -19,7 +19,7 @@ ftr2 = Fighter("Gooku")
 print(ftr1)
 print(ftr2)
 
-ftr2.attack(ftr1)
+ftr1.attack(ftr2)
 
 print(ftr1)
 print(ftr2)
